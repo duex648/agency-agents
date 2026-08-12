@@ -63,6 +63,9 @@ notes/
 TODO.md
 NOTES.md
 
+# Local Claude Code permission overrides (machine/session-specific)
+.claude/settings.local.json
+
 # Generated integration files — run scripts/convert.sh to regenerate locally
 # The scripts/ and integrations/*/README.md files ARE committed; only generated
 # agent/skill files are excluded.
